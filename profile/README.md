@@ -124,9 +124,13 @@ QR코드는 URL과 달리 주소도 알 수 없어 스캔하기 전까지는 출
 
 ## ⚒️ 시스템 아키텍처
 
+![image](https://github.com/user-attachments/assets/0319d938-4200-4e8b-97ad-1c42c7d7ae66)
+
 </br>
 
 ## 🪄 UI / UX
+
+![image](https://github.com/user-attachments/assets/2176e35f-758d-49be-a47a-74d8e921e07e)
 
 </br>
 
